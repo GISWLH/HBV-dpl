@@ -1,0 +1,199 @@
+# =========================
+# Python environments
+# =========================
+.venv/
+**/.venv/
+venv/
+env/
+ENV/
+
+# Conda environments
+.conda/
+conda-meta/
+
+# Optional: only if you configured uv cache inside the project
+.uv-cache/
+uv-cache/
+# =========================
+# Python cache / build files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+build/
+dist/
+downloads/
+wheels/
+pip-wheel-metadata/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# =========================
+# Jupyter / notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# uv / package management
+# =========================
+# Keep uv.lock if this is an application or reproducible research project.
+# Ignore it only if you are intentionally building a reusable library.
+# uv.lock
+
+# =========================
+# Environment variables / secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# =========================
+# IDEs and editors
+# =========================
+.idea/
+.vscode/
+*.code-workspace
+
+# Cursor / Claude / AI coding tools
+.cursor/
+.claude/
+.calaude/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# OS-generated files
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+log/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# =========================
+# Data / outputs
+# =========================
+data/
+raw_data/
+processed_data/
+outputs/
+output/
+results/
+figures/
+plots/
+
+# Keep placeholder files if needed
+!data/.gitkeep
+!outputs/.gitkeep
+!results/.gitkeep
+!figures/.gitkeep
+
+# =========================
+# Large scientific/data files
+# =========================
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.nc
+*.nc4
+*.zarr/
+*.tdms
+*.mat
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+
+# =========================
+# Model checkpoints / ML outputs
+# =========================
+checkpoints/
+models/
+runs/
+wandb/
+mlruns/
+lightning_logs/
+
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# =========================
+# Documentation builds
+# =========================
+docs/_build/
+site/
+
+# =========================
+# LaTeX auxiliary files
+# =========================
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# =========================
+# Git / merge leftovers
+# =========================
+*.orig
+*.rej

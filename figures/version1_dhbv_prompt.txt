@@ -1,0 +1,15 @@
+Create a minimalist hand-drawn scientific workflow diagram on a clean white paper background.
+Topic: Version 1 differentiable HBV rainfall-runoff model.
+Style: simple black ink lines, light muted blue and green accents, sparse labels, research notebook sketch, no dense infographic, no photorealism.
+
+Diagram content, left to right:
+1. Input forcing box: "T, P, PET" with tiny rain and thermometer icons.
+2. Differentiable HBV Cell box, drawn as a soft rectangle containing five tiny storage buckets: "snow", "melt water", "soil", "upper GW", "lower GW".
+3. Parameter scaling note above the cell: "learned normalized parameters -> physical ranges" with small knobs labeled BETA, FC, K0, K1, K2.
+4. Recurrent time arrow through the HBV cell: "t = 1 ... T".
+5. Output hydrograph box: "Qsim".
+6. Loss box: "NSE loss vs Qobs".
+7. Backward dashed red arrow from loss back to HBV parameters labeled "autograd / backward".
+
+Use short readable English labels only. Keep layout airy. Include a tiny title at top: "Version 1: Differentiable HBV".
+Aspect ratio 3:2, simple academic concept figure.

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea/
+.vscode/
+.venv/
+venv/
+env/
+
+.DS_Store
+Thumbs.db
+
+# Keep the original local 3 GB archive outside GitHub LFS per-file limits.
+# The repository stores split parts under version2/data/archive/oneearth_critical_parts/.
+version2/data/archive/oneearth_critical.tar.gz
+version2/data/inputs/f1223_1023_daymet_20240826.npy

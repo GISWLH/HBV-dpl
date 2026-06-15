@@ -1,0 +1,267 @@
+[
+  {
+    "path": "data/GHMs_out_qr_2005soc/Cwatm_qr_MIROC5_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1QbbdvS8iZZ10ccwI_DeNsSJIkzrlvWSW",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to use proxy:\n\n\tHTTPSConnectionPool(host='doc-10-0o-docs.googleusercontent.com',\n\tport=443): Max retries exceeded with url: /docs/securesc/ha0ro937gcuc7\n\tl7deffksulhg5h7mbp1/rb3vsntl0d71pm3q5vi98aprlpm126oq/1780747725000/163\n\t27112480994554328/*/1QbbdvS8iZZ10ccwI_DeNsSJIkzrlvWSW?uuid=b6c9a029-\n\t5e4e-445c-af9b-71df82324dd3 (Caused by ProxyError('Unable to connect\n\tto proxy', RemoteDisconnected('Remote end closed connection without\n\tresponse')))\n\nPlease check your proxy settings.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Cwatm_qr_MIROC5_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1WZKomRHmPuGfsojZYUWEhERQl708DN5q",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1WZKomRHmPuGfsojZYUWEhERQl708DN5q\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Cwatm_qr_MIROC5_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1ljyBax1BYsYDtPEAwmQxCRr7Pys2IIDW",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1ljyBax1BYsYDtPEAwmQxCRr7Pys2IIDW\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Cwatm_qr_MIROC5_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1W-39R9wtOdvVvZb6ec0TEHzXgfvek5iZ",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1W-39R9wtOdvVvZb6ec0TEHzXgfvek5iZ\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/H08_qr_MIROC5_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1scydihzp205oNGm67c5vOSs3N0N_S7HW",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1scydihzp205oNGm67c5vOSs3N0N_S7HW\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/H08_qr_MIROC5_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1CT4yg26HunCqcC8ZkGFgOnOGdJqDY1k0",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1CT4yg26HunCqcC8ZkGFgOnOGdJqDY1k0\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/H08_qr_MIROC5_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1h_uieRW1TGCLoC09cILyXMH0rHJdO57s",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1h_uieRW1TGCLoC09cILyXMH0rHJdO57s\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/LPJmL_qr_MIROC5_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1rV9hENHY45WgFJWwMMTaDIwEWO60ue4y",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1rV9hENHY45WgFJWwMMTaDIwEWO60ue4y\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/LPJmL_qr_MIROC5_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1OB-TH9UUQJejzrqvGKf2_6jYXZNLjotU",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1OB-TH9UUQJejzrqvGKf2_6jYXZNLjotU\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Matsiro_qr_MIROC5_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1PSFMOsCb7XjHuiG_lXz8JQRqRpPI7DKj",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1PSFMOsCb7XjHuiG_lXz8JQRqRpPI7DKj\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Matsiro_qr_MIROC5_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1RzC0nBivKmXJjtazB7PtO94cUOqBK_B5",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1RzC0nBivKmXJjtazB7PtO94cUOqBK_B5\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Matsiro_qr_MIROC5_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1rkI_pH67QCVwyZd0uVg1-10c3ZwveceQ",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1rkI_pH67QCVwyZd0uVg1-10c3ZwveceQ\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Matsiro_qr_MIROC5_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1s6he6L1wJdOnm4oQWgP2NPCqTW99iilh",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1s6he6L1wJdOnm4oQWgP2NPCqTW99iilh\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_2c_qr_MIROC5_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1XK0Anl9giq2q3VroD0H4H9Jrf4Koo4GS",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1XK0Anl9giq2q3VroD0H4H9Jrf4Koo4GS\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_2c_qr_MIROC5_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=157Hi5DhM9hAFprKBnCwVuFqqO5vK4HUE",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=157Hi5DhM9hAFprKBnCwVuFqqO5vK4HUE\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_2c_qr_MIROC5_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1wr58ItM2VSqQu3w_iBnX-gZ1_RLHeNAv",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1wr58ItM2VSqQu3w_iBnX-gZ1_RLHeNAv\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_2c_qr_MIROC5_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1Ra60Zvo19BOiSiV321FvH2oCRKS4UTtC",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1Ra60Zvo19BOiSiV321FvH2oCRKS4UTtC\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_qr_MIROC5_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1HX1qLuZ7squN_73XBwz3Du0BIE-eVEZT",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1HX1qLuZ7squN_73XBwz3Du0BIE-eVEZT\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_qr_MIROC5_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1skNJ7h3nDcvkFuOM4U24aq3MLnt0LACd",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1skNJ7h3nDcvkFuOM4U24aq3MLnt0LACd\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_qr_MIROC5_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1TskwBloQoSu1mzRxptF2OzM50wh_j4zx",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1TskwBloQoSu1mzRxptF2OzM50wh_j4zx\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/GHMs_out_qr_2005soc/Watergap2_qr_MIROC5_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1UnDGG9Vk2-jNpX22B1T7cox2Z0PHBZ2s",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1UnDGG9Vk2-jNpX22B1T7cox2Z0PHBZ2s\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp60_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=15BW_IWszj8-VCW5BseReCzLpxUTufHIw",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=15BW_IWszj8-VCW5BseReCzLpxUTufHIw\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp60_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=15AsSx_IeO4uXIF2eCLNwSENLME1wKMfA",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=15AsSx_IeO4uXIF2eCLNwSENLME1wKMfA\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp60_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1urjeeIdg8tz3SFfEH_0pWBH0CVFgNiAb",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1urjeeIdg8tz3SFfEH_0pWBH0CVFgNiAb\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp60_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=18LRvTq2SVXYu0CyWRvh3mYhHp4TAciSD",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=18LRvTq2SVXYu0CyWRvh3mYhHp4TAciSD\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp85_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1F0n6IlWmamiPWtHb9K2iLPN13d_dtrhy",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1F0n6IlWmamiPWtHb9K2iLPN13d_dtrhy\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp85_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1j0O3uZrr5n3ogWuSPO5tMc7Seb0HxWtz",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1j0O3uZrr5n3ogWuSPO5tMc7Seb0HxWtz\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp85_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1flxwNb7PFMwGuwUhHmzpRXyilgpYheuy",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1flxwNb7PFMwGuwUhHmzpRXyilgpYheuy\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_gfdl-esm2m_rcp85_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=17IMNe4SD6kn0etwjlpli0JVhV_igZREL",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=17IMNe4SD6kn0etwjlpli0JVhV_igZREL\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp60_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=17Ibz0LOYJCsZnEQqRtz3dGzSE21BViHE",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=17Ibz0LOYJCsZnEQqRtz3dGzSE21BViHE\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp60_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=19fGh2D_tiLJA3ONfAgkp-w7yA-Z8y34y",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=19fGh2D_tiLJA3ONfAgkp-w7yA-Z8y34y\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp60_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1U7yWYlOgA0H6upvS8upNgu_0iJu4eL6Z",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1U7yWYlOgA0H6upvS8upNgu_0iJu4eL6Z\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp60_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=16c_KTn19bMXTfB0JbYnSFozU3mvG0mcL",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=16c_KTn19bMXTfB0JbYnSFozU3mvG0mcL\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp85_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1ANDEA4kJy6eSn1MJFRkrdo2NrkhDC8OH",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1ANDEA4kJy6eSn1MJFRkrdo2NrkhDC8OH\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp85_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1udwxPiUUbjnHwL04DMRsIoni733vjfgm",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1udwxPiUUbjnHwL04DMRsIoni733vjfgm\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp85_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=19tYKVpwggkTTopAgatEg77FrY7CBD4Jn",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=19tYKVpwggkTTopAgatEg77FrY7CBD4Jn\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_hadgem2-es_rcp85_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1nfr-KonqQtbic0_DNDo-dpy8sQX6r8A8",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1nfr-KonqQtbic0_DNDo-dpy8sQX6r8A8\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp60_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1yGTP72rawuYcx7A74Bv7AZGCkovjdo4R",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1yGTP72rawuYcx7A74Bv7AZGCkovjdo4R\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp60_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1AzK0RH2fCC8PrFZbPJ5aNWjgfVyj9-q3",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1AzK0RH2fCC8PrFZbPJ5aNWjgfVyj9-q3\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp60_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1PJ5utGColZitbTiPDxez-QnKtDbLHGsD",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1PJ5utGColZitbTiPDxez-QnKtDbLHGsD\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp60_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1cnIN1HaemIWfo-b6uR6wT8LDxogX9W9f",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1cnIN1HaemIWfo-b6uR6wT8LDxogX9W9f\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp85_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1A-8PLd6qPG2e6y4f491tUvZ3Izt50Dwf",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1A-8PLd6qPG2e6y4f491tUvZ3Izt50Dwf\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp85_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1Je2p81TIbKQ-HRl2ja-L-3kXieSGN09D",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1Je2p81TIbKQ-HRl2ja-L-3kXieSGN09D\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp85_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1m3ig-MF3UponIgjckDn5qHofPc46sXGF",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1m3ig-MF3UponIgjckDn5qHofPc46sXGF\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_ipsl-cm5a-lr_rcp85_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1K6XQCd3mWl4oMrbFxg7HyeYaUUu2vtf9",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1K6XQCd3mWl4oMrbFxg7HyeYaUUu2vtf9\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp60_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1N4iYBDsSwXoN16GdBX5LteArNWBKr9R4",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1N4iYBDsSwXoN16GdBX5LteArNWBKr9R4\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp60_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1G7OGk77OpPY3vXHsm4nXuF-61BiBKyYO",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1G7OGk77OpPY3vXHsm4nXuF-61BiBKyYO\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp60_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1dcUvfYCq1dJPLxCYW7kwWmhJ59sEhfni",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1dcUvfYCq1dJPLxCYW7kwWmhJ59sEhfni\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp60_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1sbSLZN1mCg0ysPtCjUCCWJc3AYTG8l70",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1sbSLZN1mCg0ysPtCjUCCWJc3AYTG8l70\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp85_1223_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1QbDR7yoT6ulnjNSzCe5MknJ9G21fy9dw",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1QbDR7yoT6ulnjNSzCe5MknJ9G21fy9dw\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp85_1223_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1MhVmd1GvoKTgOJUBycEDBUE34wcn9Zrx",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1MhVmd1GvoKTgOJUBycEDBUE34wcn9Zrx\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp85_2003_2006_2100.npy",
+    "url": "https://drive.google.com/uc?id=1KFTxnMOiVsXIZEz3Z4Qc5reTP5OPrXbd",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1KFTxnMOiVsXIZEz3Z4Qc5reTP5OPrXbd\n\nbut Gdown can't. Please check connections and permissions.\n"
+  },
+  {
+    "path": "data/out_2003_np_qr_ISIMIP2b_GHMs/clm45_qr_monthly_ISIMIP2b_miroc5_rcp85_2003_2006_2100_name.json",
+    "url": "https://drive.google.com/uc?id=1MxhpogD4Gye04bwXt_fyOfGOb678g1ZE",
+    "tail": "Using proxy: http://127.0.0.1:7890\nFailed to retrieve file url:\n\n\tCannot retrieve the public link of the file. You may need to change\n\tthe permission to 'Anyone with the link', or have had many accesses.\n\tCheck FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.\n\nYou may still be able to access the file from the browser:\n\n\thttps://drive.google.com/uc?id=1MxhpogD4Gye04bwXt_fyOfGOb678g1ZE\n\nbut Gdown can't. Please check connections and permissions.\n"
+  }
+]

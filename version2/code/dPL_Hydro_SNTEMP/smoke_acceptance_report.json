@@ -1,0 +1,144 @@
+{
+  "workspace": "D:\\OneDrive\\GitHub\\HBV-dpl\\version2",
+  "code_path": "D:\\OneDrive\\GitHub\\HBV-dpl\\version2\\code\\dPL_Hydro_SNTEMP",
+  "forcing_path": "D:\\OneDrive\\GitHub\\HBV-dpl\\version2\\data\\smoke_inputs\\f1223_1023_daymet_20240826.npy",
+  "attr_path": "D:\\OneDrive\\GitHub\\HBV-dpl\\version2\\data\\smoke_inputs\\attr1223_1023_daymet_20240826.npy",
+  "torch_version": "2.6.0+cu124",
+  "cuda_available": true,
+  "device": "cuda",
+  "smoke_forcing_shape": [
+    2,
+    760,
+    16
+  ],
+  "smoke_attr_shape": [
+    2,
+    32
+  ],
+  "sample_shapes": {
+    "x_NN": [
+      730,
+      2,
+      3
+    ],
+    "c_NN": [
+      2,
+      28
+    ],
+    "obs": [
+      730,
+      2,
+      1
+    ],
+    "x_hydro_model": [
+      760,
+      2,
+      3
+    ],
+    "c_hydro_model": [
+      2,
+      1
+    ],
+    "inputs_NN_scaled": [
+      760,
+      2,
+      31
+    ]
+  },
+  "forward_output_shapes": {
+    "flow_sim": [
+      730,
+      2,
+      1
+    ],
+    "srflow": [
+      730,
+      2,
+      1
+    ],
+    "ssflow": [
+      730,
+      2,
+      1
+    ],
+    "gwflow": [
+      730,
+      2,
+      1
+    ],
+    "sink": [
+      730,
+      2,
+      1
+    ],
+    "PET_hydro": [
+      730,
+      2,
+      1
+    ],
+    "AET_hydro": [
+      730,
+      2,
+      1
+    ],
+    "flow_sim_no_rout": [
+      730,
+      2,
+      1
+    ],
+    "srflow_no_rout": [
+      730,
+      2,
+      1
+    ],
+    "ssflow_no_rout": [
+      730,
+      2,
+      1
+    ],
+    "gwflow_no_rout": [
+      730,
+      2,
+      1
+    ],
+    "flux_inf": [
+      730,
+      2,
+      1
+    ],
+    "flux_pc": [
+      730,
+      2,
+      1
+    ],
+    "flux_sep": [
+      730,
+      2,
+      1
+    ],
+    "flux_gad": [
+      730,
+      2,
+      1
+    ],
+    "flux_ea": [
+      730,
+      2,
+      1
+    ],
+    "flux_qres": [
+      730,
+      2,
+      1
+    ],
+    "SWE_sim": [
+      730,
+      2,
+      1
+    ],
+    "BFI_sim": [
+      2
+    ]
+  },
+  "status": "pass"
+}

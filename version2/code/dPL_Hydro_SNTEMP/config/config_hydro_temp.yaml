@@ -1,0 +1,97 @@
+##### This is an example .yaml file for how you should make your config file
+##### See below for what you need to have
+##### Make sure the paths are correct. They are individual to your machine
+
+randomseed: [0]   # None means random
+Action: [0,1]   # 0:Train,   1: Test
+device: "cuda"
+nmul: 16
+# ------------------------------------------------
+###### Directories of forcings, attributes, and output
+forcing_path: "D:\\data_attr_inputs2003\\f1223_1023_daymet_20240826.npy"
+attr_path: "D:\\data_attr_inputs2003\\attr1223_1023_daymet_20240826.npy"
+output_model: "D:\\tmp_dirs"
+# ------------------------------------------------
+###### neural network configuration
+NN_model_name: "LSTM"   # it can be "MLP", "LSTM" too.
+### you can choose different types of loss functions based on your need:
+   ###  1- "RmseLoss_flow_comb",            2- "RmseLoss_flow_temp",      3- "RmseLoss_flow_temp_BFI"
+   ###  4- "RmseLoss_flow_temp_BFI_AET",    5- "RmseLoss_BFI_temp"   ,    6- "NSEsqrtLoss_flow_temp"
+   ###  7- "RmseLoss_flow_temp_BFI_AET_SWE"       8- "RmseLoss_flow_temp_BFI_SWE"
+   ###  9- "RmseLoss_flow_temp_SWE",        10- "RmseLoss_flow_BFI_SWE"
+loss_function: "RmseLoss_flow_temp"      #
+loss_function_weights:
+    w1: 3      # w1: flow loss weight (11.0), for RmseLoss_BFI_temp(w1=5.0, w2=1.0, w3=0.05,)
+    w2: 1.0
+### choose your targets based on your loss function
+    ### "00060_Mean": streamflow observation,    "00010_Mean": stream temperature observations
+    ### "BFI_AVE": Baseflow index ratio,          "PET": Potential evapotranspiration
+target: ["00060_Mean", "00010_Mean"]  #["00060_Mean", "00010_Mean", "BFI_AVE",  "swe_nsidc"]   ##"00010_Mean",  "BFI_AVE",
+tRange: [19800101, 20230101]
+t_train: [20100101, 20230101]   # there should be an overlap because of the warm_up
+t_test: [19800101, 20230101]    # the first year is for warm_up
+warm_up: 365
+rho: 365
+batch_size: 100
+EPOCHS: 100    # number of epochs to train
+EPOCH_testing: 100   # which epoch you want to pick to test on?
+hidden_size: 256
+dropout: 0.5
+saveEpoch: 10    # intervals you want to save the model
+no_basins: 25   # number of basins sampled in testing
+varT_NN: ['prcp(mm/day)', 'tmean(C)', "PET_hargreaves(mm/day)"]   # 'tmin(C)', 'vp(Pa)','srad(W/m2)',
+varC_NN: [
+  ############   for mswep inputs
+  'aridity', 'p_mean', 'ETPOT_Hargr', 'NDVI', 'FW', 'SLOPE_PCT', 'SoilGrids1km_sand',
+  'SoilGrids1km_clay', 'SoilGrids1km_silt', 'glaciers', 'HWSD_clay', 'HWSD_gravel',
+  'HWSD_sand', 'HWSD_silt', 'ELEV_MEAN_M_BASIN', 'meanTa', 'permafrost',
+  'permeability','seasonality_P', 'seasonality_PET', 'snow_fraction',
+  'snowfall_fraction','T_clay','T_gravel','T_sand', 'T_silt','Porosity',
+  "DRAIN_SQKM",
+]
+# ---------------------------------------------------------------------
+### process based streamflow model configurations
+# hydro_model_name options: 1-marrmot_PRMS; 2-HBV_capillary; 3-HBV
+hydro_model_name: "marrmot_PRMS"
+varT_hydro_model: ['prcp(mm/day)','tmean(C)', "PET_hargreaves(mm/day)"] #, "t_monthly(C)", 'dayl(s)', "dayofyear"]    # , "pet_nldas"
+varC_hydro_model: ['DRAIN_SQKM']    # "area_gages2"    DRAIN_SQKM   , "lat"
+dydrop: 0.0   # dynamic parameters dropout for some basins
+routing_hydro_model: True
+# if hydro_model_name = None --> we need a path to read the flow data from
+flow_data_path: "/path-to-npyfile"  # .npy file
+dyn_params_list_hydro: []#"parBETA", "parK0", "parUZL", "parBETAET"]  #["pctim", "smax", "parTT"]# ["parBETAET"]   #["scx", "cgw", "alpha", "tt"]   #
+
+# -----------------------------------------------------------
+### PET model configurations
+potet_module: "dataset" # "potet_hamon"  # "potet_hargreaves" , "dataset" -> Hamon is not ready beacause of lack of monthly coef
+potet_dataset_name: "PET_hargreaves(mm/day)"  #"PET_hargreaves(mm/day)" # if "potet_module" == "dataset"
+
+
+# -------------------------------------------------------------------
+### process based stream temperature model configuration
+temp_model_name: "SNTEMP"       #   "None" means no temperature model, "SNTEMP", "SNTEMP_gw0"
+routing_temp_model: True
+res_time_lenF_ssflow: 30   #60
+res_time_lenF_bas_shallow: 180 #
+res_time_lenF_gwflow: 365 #
+res_time_lenF_srflow: 1
+lat_temp_adj: True
+STemp_default_emissivity_veg: 0
+STemp_default_albedo: 0.1
+STemp_default_delta_Z: 1.0       # for streambed conduction
+params_water_density: 1000
+params_C_w: 4184    # J/kg. K
+NEARZERO: 1e-3
+Epan_coef: 1.0
+initial_values_shade_fraction: 0.1
+varT_temp_model: ["ccov", 'vp(Pa)', "srad(W/m2)"]  # tmean is used in air_T_memory.  #'dayl(s)',  , "dayofyear", "t_monthly(C)",
+varC_temp_model: ["DRAIN_SQKM", "stream_length_square", 'SLOPE_PCT',
+              'ELEV_MEAN_M_BASIN']       #  "area_gages2",   "RIP100_FOREST", "lat"   'PPTAVG_BASIN',
+dyn_params_list_temp: [] #, "f1", "f2" ["width_coef_pow", "width_coef_factor", "w1_shade", ]    #"albedo", "w2_shade"
+
+res_time_type: "SNTEMP"   #"van Vliet"  # "van Vliet", "Meisner", "SNTEMP"
+shade_smoothening: False
+frac_smoothening_mode: False
+frac_smoothening_gw_filter_size: 40
+frac_smoothening_ss_filter_size: 40
+

@@ -1,0 +1,16 @@
+Create a minimalist hand-drawn scientific workflow diagram on a clean white paper background.
+Topic: Version 2 differentiable parameter learning hydrology and stream temperature model.
+Style: simple black ink lines, light muted teal and orange accents, sparse labels, research notebook sketch, no dense infographic, no photorealism.
+
+Diagram content, left to right:
+1. Data block: "Forcings + attributes" with small icons for rain, air temperature, PET, basin attributes.
+2. Neural parameter generator block: "LSTM / MLP" with a small neural network sketch.
+3. Parameter transform block: "sigmoid + physical bounds" producing dynamic parameter ribbons.
+4. Hydrology process block: "marrmot_PRMS / HBV / SACSMA" with tiny stores for snow, soil, reservoirs and routing.
+5. Optional stream temperature block below/right: "SNTEMP" with heat flux symbols: solar, shade, longwave, groundwater.
+6. Outputs block: "Qsim, Tstream, BFI, fluxes".
+7. Loss block: "multi-target loss".
+8. Backward dashed red arrow from loss back through process model to neural network labeled "differentiable backward pass".
+
+Use short readable English labels only. Keep layout airy with two forward branches: hydrology and optional temperature. Include a tiny title at top: "Version 2: dPL Hydro + SNTEMP".
+Aspect ratio 3:2, simple academic concept figure.

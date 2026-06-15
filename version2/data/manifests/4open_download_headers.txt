@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Sat, 06 Jun 2026 11:56:55 GMT
+Content-Type: application/zip
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-powered-by: Express
+RateLimit-Policy: 175;w=900
+RateLimit-Limit: 175
+RateLimit-Remaining: 172
+RateLimit-Reset: 827
+Content-Disposition: attachment; filename="dPL_Hydro_SNTEMP_DR-93F0.zip"
+Set-Cookie: connect.sid=s%3ANbe84FazxIwIfvlDaUZ5ZqSzeVlNuDSB.pxuNudrVxlVnBWe9SREl2jwUCfTsxORqc3GKAS8iBq0; Path=/; HttpOnly
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DchwRhFNCwepteBMfsKSdZeRbxjmcQdHYPPIfitMQFAnV9jZFpNBU0OV%2BdH6hrm5cN%2BN%2Bgl83veNiGJmn%2FKwmyS0%2BQDfUleSF6YJI9uJo7a7yeS0YZqIXxxlaG4nadaRyWmFpLA7nChF56eOD%2FtkZdVR%2FZgTwQ%3D%3D"}]}
+CF-RAY: a0773c898f696a84-TPE
+alt-svc: h3=":443"; ma=86400
+

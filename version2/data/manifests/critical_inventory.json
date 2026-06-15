@@ -1,0 +1,102 @@
+[
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\critical_inventory.json",
+    "Length": 0
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\download_log.tsv",
+    "Length": 6108
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\inputs\\attr1223_1023_daymet_20240826_name.json",
+    "Length": 448
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\inputs\\attr1223_1023_daymet_20240826.npy",
+    "Length": 313216
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\inputs\\f1223_1023_daymet_20240826_name.json",
+    "Length": 210
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\inputs\\f1223_1023_daymet_20240826.npy",
+    "Length": 2458680192
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\oneearth_critical.tar.gz",
+    "Length": 3058319911
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\model_Ep100.pt",
+    "Length": 4644489
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\Statistics_basinnorm.json",
+    "Length": 4318
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2006\\flow_sim.npy",
+    "Length": 128760980
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2006\\flux_gad.npy",
+    "Length": 128760980
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2006\\flux_qres.npy",
+    "Length": 128760980
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2006\\gwflow.npy",
+    "Length": 128760980
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2011\\flow_sim.npy",
+    "Length": 143390892
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2011\\flux_gad.npy",
+    "Length": 143390892
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2011\\flux_qres.npy",
+    "Length": 143390892
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1961_2011\\gwflow.npy",
+    "Length": 143390892
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1980_2023\\flow_sim.npy",
+    "Length": 122912220
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1980_2023\\flux_gad.npy",
+    "Length": 122912220
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1980_2023\\flux_qres.npy",
+    "Length": 122912220
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts1980_2023\\gwflow.npy",
+    "Length": 122912220
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts2006_2100\\flow_sim.npy",
+    "Length": 272151744
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts2006_2100\\flux_gad.npy",
+    "Length": 272151744
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts2006_2100\\flux_qres.npy",
+    "Length": 272151744
+  },
+  {
+    "FullName": "D:\\OneDrive\\Acdemic\\review\\OneEarth\\review_materials\\data_remote\\results\\flow_temp_mSS_latT_w1_3_w2_1_1023_365_1_30_k1_aacwk1k2rxsxaowr\\LSTM_marrmot_PRMS_SNTEMP_E100_R365_B100_H256_tr2010_2023_n16_0\\alpha_cgw_k1_k2_resmax_scx_albedo_width_coef_factor_\\ts2006_2100\\gwflow.npy",
+    "Length": 272151744
+  }
+]

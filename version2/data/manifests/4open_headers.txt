@@ -1,0 +1,42 @@
+HTTP/1.1 302 Found
+Date: Sat, 06 Jun 2026 11:56:24 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 62
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+X-Powered-By: Express
+Location: /api/repo/dPL_Hydro_SNTEMP_DR-93F0/file/
+Vary: Accept, Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ECP41GENuQKzKF6rjbCNCGzXSAbm7AhZhwcXwg5NW5sP1OIRyypsQwLJZOA3oW5f0Xu49mvwvUyRM%2BXtJXo9YT%2FFI5yNof2Vc8eSPxERj3FD7XiE30hEoWf3L09939LhZtL%2FHuEPd42ufSyPvANU6ObQnNLlwg%3D%3D"}]}
+CF-RAY: a0773bce7aa8a9b0-TPE
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 401 Unauthorized
+Date: Sat, 06 Jun 2026 11:56:25 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 25
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+X-Powered-By: Express
+RateLimit-Policy: 175;w=900
+RateLimit-Limit: 175
+RateLimit-Remaining: 173
+RateLimit-Reset: 857
+ETag: "19-TT0YO6CsIP1ARBU85/d5TU3zVJA"
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eMdlv7Gg87VrLHruVT56N6WQp3D0GprFqRRNYhvuJ%2FcVc1ytwFEhFdJ64%2FXioUeiN%2FxIn6Z%2FFZrA6GNEqD%2Bs1%2FNi4dTMPH8u1ro7EVjHf19kRAQXDkK3TlrpMlaz%2Bwut9b0sWh%2Br0NGBQk3lBgst1cru3G528Q%3D%3D"}]}
+CF-RAY: a0773bd02c57a9b0-TPE
+alt-svc: h3=":443"; ma=86400
+

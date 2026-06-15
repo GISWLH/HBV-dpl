@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-5747024c64274d86eca50276",
+  "object": "chat.completion",
+  "created": 1781497828,
+  "model": "GPT-Image-2",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "![Minimal whitebackground scientific header image. No text, no letters, no numbers, no labels, no watermark. Only simple concept icons: blue river line, green basin outline, three water drops, small neural network nodes, one circular arrow. Sparse handdrawn vector style, thin lines, lots of white space.](https://pfst.cf2.poecdn.net/base/image/cb89e371d880df751ffaf92cdd0d09946b8209aa31ceeab7d33d128b8397bdcd?w=1774&h=887)\n\nhttps://pfst.cf2.poecdn.net/base/image/cb89e371d880df751ffaf92cdd0d09946b8209aa31ceeab7d33d128b8397bdcd?w=1774&h=887"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 63,
+    "completion_tokens": 122,
+    "total_tokens": 185
+  }
+}
