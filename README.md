@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![HBV-dpl — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 <p align="center">
   <img src="figures/hbv_dpl_logo_header.png" alt="HBV-dPL project header" width="720">
 </p>
@@ -125,3 +129,7 @@ Generation response logs are stored next to the images as `*.response.json`.
 - Files larger than GitHub LFS per-file limits are stored as split parts with reconstruction notes in `version2/data/archive/README.md` and `version2/data/inputs/README.md`.
 - The full coupled SNTEMP workflow is not yet a turnkey reproduction path because the upstream config contains machine-specific paths and long-window assumptions.
 - The included smoke test is an acceptance check for copied code/data and the hydrology forward path, not a full manuscript reproduction.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
