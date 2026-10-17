@@ -1,0 +1,49 @@
+{
+  "repo": "GISWLH/HBV-dpl",
+  "environment": "EHPC PBS",
+  "execution_scope": "Original version1 HBV classes executed in a single CPU forward pass on 365 explicit synthetic forcing steps. Outputs were finite. No training, hydrological-skill claim, version2 validation or paper reproduction is implied.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "95145239d31e0ff8ffd25488d4bf03f5d943f33312b5ba2062236436d9a3299f"
+  },
+  "python": "3.11.9 (main, Apr 19 2024, 16:48:06) [GCC 11.2.0]",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "matplotlib": "3.9.4",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.5.2",
+    "seaborn": "0.13.2",
+    "shap": "0.46.0",
+    "numba": "0.60.0",
+    "xgboost": "1.7.6",
+    "torch": "2.2.2+cpu",
+    "cartopy": "0.23.0",
+    "shapely": "2.0.6",
+    "pyproj": "3.6.1",
+    "requests": "2.32.4"
+  },
+  "started_at_utc": "2026-10-17T17:42:09.270488+00:00",
+  "finished_at_utc": "2026-10-17T17:42:11.656609+00:00",
+  "elapsed_seconds": 2.386118818074465,
+  "source_files": [
+    {
+      "path": "source/original_hbv.py",
+      "sha256": "3d1895b3ae355075f9d0c2b83f8c90f55f0afc70e95435820bdc2fd57d55be87",
+      "bytes": 4576
+    },
+    {
+      "path": "source/run_demo.py",
+      "sha256": "5b0e4c1e1a36f0848b2df7655cc2ba3423969e8cf7e94984e89a59a125533625",
+      "bytes": 2970
+    }
+  ],
+  "input_files": [
+    {
+      "path": "manifest.json",
+      "sha256": "5e7422646694fc04670b050c1d1fc1f8fd5fb5c693ee9b4d39b3e7c806408606",
+      "bytes": 1957
+    }
+  ]
+}

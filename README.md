@@ -133,3 +133,14 @@ Generation response logs are stored next to the images as `*.response.json`.
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Demonstration captured on EHPC · 17 October 2026
+
+![Original version1 HBV classes executed in a single CPU forward pass on 365 explicit synthetic forcing steps. Outputs were finite. No training, hydrological-skill claim, version2 validation or paper reproduction is implied.](assets/readme/execution-result.png)
+
+Original version1 HBV classes executed in a single CPU forward pass on 365 explicit synthetic forcing steps. Outputs were finite. No training, hydrological-skill claim, version2 validation or paper reproduction is implied.
+
+[Execution record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
